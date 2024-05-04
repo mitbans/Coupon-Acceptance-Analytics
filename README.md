@@ -45,6 +45,8 @@
           <li>who go to coffeehouse more than once</li>
           <li>has no kids and were not widowed</li>
           <li>occupation is either unemployed or Student or Computer & Mathematical or Education&Training$Library</li>
+          <li>Acceptance rates are higher at 10 am and 2 pm</li>
+          <li>Accentance rates are higher at 80 degrees temperature and when weather is sunny</li>
         </ul> 
     </ul>
 </ul>
