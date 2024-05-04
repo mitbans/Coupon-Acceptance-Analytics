@@ -44,11 +44,8 @@
           <li>between the age 25 to 30</li>
           <li>who go to coffeehouse more than once</li>
           <li>has no kids and were not widowed</li>
-          <li>had occupations other than farming, fishing, or forestry</li>
+          <li>occupation is either unemployed or Student or Computer & Mathematical or Education&Training$Library</li>
         </ul> 
-    </ul>
-    <ul>
-      <li>Lower for those who go to cheap restaurants more than 4 times and income is less than 50K</li>
     </ul>
 </ul>
   
@@ -66,4 +63,4 @@
 </ul>
 
 <h2>Notebook</h2>
-<p>The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/on_route_coupon_acceptance_recommendation.ipynb">here</a>.</p>
+<p>The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/notebooks/on_route_coupon_acceptance_recommendation.ipynb">here</a>.</p>
