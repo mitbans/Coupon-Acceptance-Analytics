@@ -61,7 +61,7 @@
 <h3>Repository Structure</h3>
 <ul>
   <li><code>data/</code>: Contains dataset used in the analysis.</li>
-  <li><code>on_route_coupon_acceptance_recommendation.jpynb</code>: Jupyter notebook with code for data analysis.</li>
+  <li><code>notebooks/on_route_coupon_acceptance_recommendation.jpynb</code>: Jupyter notebook with code for data analysis.</li>
   <li><code>README.md</code>: Summary of findings and link to notebook</li>
 </ul>
 
