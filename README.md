@@ -66,4 +66,4 @@
 </ul>
 
 <h2>Notebook</h2>
-<p>The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/on_route_coupon_acceptance_recommendation.ipynb">here</a>.</p>
+<p>The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/notebooks/on_route_coupon_acceptance_recommendation.ipynb">here</a>.</p>
