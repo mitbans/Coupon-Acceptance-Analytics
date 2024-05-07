@@ -1,65 +1,48 @@
-<h1>Will a Customer Accept the Coupon?</h1>
-<p>UC Berkeley, PC-MLAI, Practical Application 1</p>
+# Will a Customer Accept the Coupon?
+UC Berkeley, PC-MLAI, Practical Application 1
 
-<h2>Summary of Findings</h2>
+## Summary of Findings
 
-<h3>Introduction</h3>
-<p>This repository contains the code and analysis for "On route coupon acceptance while driving". The project aimed to distinguish between customers who accepted a driving coupon versus those that did not.</p>
+### Introduction
+This repository contains the code and analysis for "On route coupon acceptance while driving". The project aimed to distinguish between customers who accepted a driving coupon versus those that did not.
 
-<h3>Data</h3>
-<p>This data comes from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50).</p>
+### Data
+This data comes from the UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver. Answers that the user will drive there ‘right away’ or ‘later before the coupon expires’ are labeled as ‘Y = 1’ and answers ‘no, I do not want the coupon’ are labeled as ‘Y = 0’. There are five different types of coupons -- less expensive restaurants (under $20), coffee houses, carry out & take away, bar, and more expensive restaurants ($20 - $50).
 
-<h3>Methodology</h3>
-<p>Overview of the methodologies, techniques, and algorithms used for analysis:</p>
-<ul>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Statistical summary</li>
-  <li>Data Visualization using Matplotlib, Seaborn and Plotly libraries</li>
-</ul>
+### Methodology
+Overview of the methodologies, techniques, and algorithms used for analysis:
+- Exploratory Data Analysis (EDA)
+- Statistical summary</li>
+- Data Visualization using Matplotlib, Seaborn and Plotly libraries
 
-<h3>Results</h3>
-<p>Key findings and insights from the analysis.</p>
+### Results
+Key findings and insights from the analysis.
 
-<ul>
-  <li>Acceptance rates for Bar Coupons:</li>
-    <ul>
-      <li>Higher for people:</li>
-        <ul>
-          <li>between the age 25 to 30</li>
-          <li>who go to the bar more than once a month,its highest for those who go to the bar more than 3 times </li>
-          <li>who had passengers that were not a kid</li>
-          <li>had occupations other than farming, fishing, or forestry</li>
-          <li>were not widowed</li>
-        </ul> 
-    </ul>
-    <ul>
-      <li>Lower for those who go to cheap restaurants more than 4 times and income is less than 50K</li>
-    </ul>
-</ul>
-<ul>
-  <li>Acceptance rates for Coffe House Coupons:</li>
-    <ul>
-        <li>Acceptance rates are higher for:</li>
-          <ul>
-            <li>For drivers who went more than once</li>
-            <li>Female travelling with friends</li>
-            <li>Single, unemployed or student, age 21-30</li>
-            <li>income less than $62K and coupon expiration 1d</li>
-            <li>People who have no urgent destination</li>
-            <li>time at 10 am and 2 pm</li>
-            <li>temepratures at 80 degrees</li>
-            <li>weather doesn't seem to affect the acceptance rates but the footprint increases on a sunny day</li>
-            <li>Acceptance rate is reducing as the distance increases, is higher for distances between 5-15 min</li>
-            <li>coupons were provided more frequently in the opposite direction but acceptance rates are higher in the same direction</li>
-          </ul> 
-      </ul>
-</ul>
+- Acceptance rates for Bar Coupons:
+  - Higher for people:
+    - between the age 25 to 30
+    - who go to the bar more than once a month,its highest for those who go to the bar more than 3 times
+    - who had passengers that were not a kid
+    - had occupations other than farming, fishing, or forestry
+    - were not widowed
+  - Lower for those who go to cheap restaurants more than 4 times and income is less than 50K</li>
+
+- Acceptance rates for Coffe House Coupons:
+  - Acceptance rates are higher for:
+    -	For drivers who went more than once
+    -	Female travelling with friends
+    -	Single, unemployed or student, age 21-30
+    -	income less than $62K and coupon expiration 1d
+    -	People who have no urgent destination
+    -	time at 10 am and 2 pm
+    -	temepratures at 80 degrees
+  -	weather doesn't seem to affect the acceptance rates but the footprint increases on a sunny day
+  -	Acceptance rate is reducing as the distance increases, is higher for distances between 5-15 min
+  -	coupons were provided more frequently in the opposite direction but acceptance rates are higher in the same direction        
        
-<h3>Conclusion</h3>
-<ul>
-  <li>It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings</li>
-  <li>Currently more coupons are sent in the opposite direction which has lower acceptance rates, generate more coupons in the same directions</li>
-</ul>
+### Conclusion
+- It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings
+- Currently more coupons are sent in the opposite direction which has lower acceptance rates, generate more coupons in the same directions
 
 <h3>Future Work</h3>
 <p>Exploring other types of coupons</p>
