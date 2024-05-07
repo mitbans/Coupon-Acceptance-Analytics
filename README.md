@@ -37,9 +37,9 @@ Key findings and insights from the analysis.
     -	People who have no urgent destination
     -	time at 10 am and 2 pm
     -	temepratures at 80 degrees
-  -	weather doesn't seem to affect the acceptance rates but the footprint increases on a sunny day
+  -	Weather doesn't seem to affect the acceptance rates but the footprint increases on a sunny day
   -	Acceptance rate is reducing as the distance increases, is higher for distances between 5-15 min
-  -	coupons were provided more frequently in the opposite direction but acceptance rates are higher in the same direction        
+  -	Coupons were provided more frequently in the opposite direction but acceptance rates are higher in the same direction        
        
 ### Conclusion
 - It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings
