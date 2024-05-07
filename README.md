@@ -1,8 +1,6 @@
 # Will a Customer Accept the Coupon?
 UC Berkeley, PC-MLAI, Practical Application 1
 
-## Summary of Findings
-
 ### Introduction
 This repository contains the code and analysis for "On route coupon acceptance while driving". The project aimed to distinguish between customers who accepted a driving coupon versus those that did not.
 
