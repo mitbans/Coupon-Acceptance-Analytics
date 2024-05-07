@@ -11,8 +11,9 @@ This data comes from the UCI Machine Learning repository and was collected via a
 
 ### Methodology
 Overview of the methodologies, techniques, and algorithms used for analysis:
+- Data Cleaning & Handling
 - Exploratory Data Analysis (EDA)
-- Statistical summary</li>
+- Statistical summary
 - Data Visualization using Matplotlib, Seaborn and Plotly libraries
 
 ### Results
@@ -44,15 +45,14 @@ Key findings and insights from the analysis.
 - It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings
 - Currently more coupons are sent in the opposite direction which has lower acceptance rates, generate more coupons in the same directions
 
-<h3>Future Work</h3>
-<p>Exploring other types of coupons</p>
+### Future Work
+- Exploring other types of coupons for carry away, restaurants less than $20 and Restaurants $20-$50
+- Data Modeling for identifying customer segments 
 
-<h3>Repository Structure</h3>
-<ul>
-  <li><code>data/</code>: Contains dataset used in the analysis.</li>
-  <li><code>notebooks/on_route_coupon_acceptance_recommendation.jpynb</code>: Jupyter notebook with code for data analysis.</li>
-  <li><code>README.md</code>: Summary of findings and link to notebook</li>
-</ul>
+### Repository Structure
+- <code>data/</code>: Contains dataset used in the analysis.
+- <code>notebooks/on_route_coupon_acceptance_recommendation.jpynb</code>: Jupyter notebook with code for data analysis.
+- <code>README.md</code>: Summary of findings and link to notebook
 
-<h2>Notebook</h2>
-<p>The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/notebooks/on_route_coupon_acceptance_recommendation.ipynb">here</a>.</p>
+## Notebook
+The detailed analysis and code can be found in the Jupyter notebook <a href="https://github.com/mitbans/coupon-acceptance-analytics/blob/main/notebooks/on_route_coupon_acceptance_recommendation.ipynb">here</a>.
