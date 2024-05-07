@@ -39,23 +39,30 @@
 <ul>
   <li>Acceptance rates for Coffe House Coupons:</li>
     <ul>
-      <li>Higher for people:</li>
-        <ul>
-          <li>between the age 25 to 30</li>
-          <li>who go to coffeehouse more than once</li>
-          <li>has no kids and were not widowed</li>
-          <li>occupation is either unemployed or Student or Computer & Mathematical or Education&Training$Library</li>
-          <li>Acceptance rates are higher at 10 am and 2 pm</li>
-          <li>Accentance rates are higher at 80 degrees temperature and when weather is sunny</li>
-        </ul> 
-    </ul>
+        <li>Acceptance rates are higher for:</li>
+          <ul>
+            <li>For drivers who went more than once</li>
+            <li>Female travelling with friends</li>
+            <li>Single, unemployed or student, age 21-30</li>
+            <li>income less than $62K and coupon expiration 1d</li>
+            <li>People who have no urgent destination</li>
+            <li>time at 10 am and 2 pm</li>
+            <li>temepratures at 80 degrees</li>
+            <li>weather doesn't seem to affect the acceptance rates but the footprint increases on a sunny day</li>
+            <li>Acceptance rate is reducing as the distance increases, is higher for distances between 5-15 min</li>
+            <li>coupons were provided more frequently in the opposite direction but acceptance rates are higher in the same direction</li>
+          </ul> 
+      </ul>
 </ul>
-  
+       
 <h3>Conclusion</h3>
-<p>It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings</p>
+<ul>
+  <li>It will be beneficial to send Bar and Coffee House coupons to respective customer segments as listed in key findings</li>
+  <li>Currently more coupons are sent in the opposite direction which has lower acceptance rates, generate more coupons in the same directions</li>
+</ul>
 
 <h3>Future Work</h3>
-<p>Exploring other types of coupons and relate it to time of the day</p>
+<p>Exploring other types of coupons</p>
 
 <h3>Repository Structure</h3>
 <ul>
